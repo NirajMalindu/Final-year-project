@@ -1,3 +1,27 @@
+📄 Final Year Project Description: Laravel-Based Travel Management System
+
+For my final year individual project in Year 2 Semester 2, I developed a full-featured Travel Management System using the Laravel framework. This web application was designed to manage and streamline travel-related activities and services for travelers, guides, and administrators.
+
+🔧 Key Features Implemented:
+	•	Custom Authentication System (Manual registration, login, forgot password, email verification)
+	•	Role-Based Dashboards for Admin, Traveler, and Guide
+	•	Guide Module (Manage availability, experience, approval system)
+	•	Attraction & Destination Management
+	•	Activity & Itinerary Planning
+	•	Booking & Payment Management
+	•	Review & Notification System
+	•	Report Handling for Issues or Feedback
+	•	Admin Dashboard with full CRUD functionality for all modules
+
+This project allowed me to gain in-depth knowledge of Laravel MVC architecture, Blade templating, RESTful routing, MySQL database design, and admin panel development. I focused on building a secure, user-friendly, and scalable application with clean code and proper modular structure.
+
+Developing this system individually helped me strengthen my skills in web development, database relationships, real-world problem-solving, and full-stack application building using Laravel.
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
